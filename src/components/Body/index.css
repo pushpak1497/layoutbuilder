@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.body-container {
+  display: flex;
+  justify-content: center;
+}
+.text-container {
+  width: 30%;
+  margin-left: 20px;
+}
